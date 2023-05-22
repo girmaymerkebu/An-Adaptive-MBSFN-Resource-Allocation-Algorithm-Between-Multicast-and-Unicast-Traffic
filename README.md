@@ -18,7 +18,7 @@ Procedures to test the Adaptive SF allocation solution:
 # Support
 merkebutekaw.girmay@ugent.be , Ihtisham.Khalid@imec.be
 
-#Reference
+# Reference
 If you utilize the provided source code, please kindly acknowledge and cite the following research paper:
 
 I. Khalid, M. Girmay, V. Maglogiannis, D. Naudts, A. Shahid, and I. Moerman, "[An Adaptive MBSFN Resource Allocation Algorithm for Multicast and Unicast Traffic](https://ieeexplore.ieee.org/document/10060040)," in Proceedings of the 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2023, pp. 579-586, doi: 10.1109/CCNC51644.2023.10060040.
