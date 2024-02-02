@@ -5,7 +5,7 @@
 This repository is includes modifications included on top of the [srsRAN eMBMS](https://docs.srsran.com/projects/4g/en/latest/app_notes/source/embms/source/index.html) solution. The modifications are inluded to enable a periodic SIB generation which is used to adaptiveley set MBSFN 
 subframe allocation and periodicity values based on multicast traffic load.  
 
-Procedures to test the Adaptive SF allocation solution:
+Procedures to test the adaptive resource allocation solution:
   * Clone this repository using "git clone https://gitlab.ilabt.imec.be/mgirmay/adaptive-mbsfn.git".
   * Install in atleast two host PCs .
   * Run the srsepc, srsmbms, and srsenb (with the enb.conf) in the eNB host PC.  
