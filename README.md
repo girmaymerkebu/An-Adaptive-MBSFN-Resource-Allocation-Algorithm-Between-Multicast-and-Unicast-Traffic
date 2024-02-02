@@ -15,7 +15,7 @@ Procedures to test the Adaptive SF allocation solution:
   * Create MBMS gateway 
   * Generate dynamic multicast and unicast traffic load using iperf.
   * Trace the obtained unicast and multicast throughput to observe how the resourse allocation works adaptiveley as the traffic load varies.
-## Demo video
+### Demo video
 Here is a [link](https://www.youtube.com/watch?v=JwHphnfr1xQ) for a demo video of the solution.
 ## Support
 merkebutekaw.girmay@ugent.be 
