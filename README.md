@@ -2,11 +2,11 @@
 
 ## Installation and Execution Procedures
 
-This repository is includes modifications included on top of the srsRAN MBMS solution. The modifications are inluded to enable a periodic SIB generation which is used to adaptiveley set MBSFN 
+This repository is includes modifications included on top of the [srsRAN eMBMS](https://docs.srsran.com/projects/4g/en/latest/app_notes/source/embms/source/index.html) solution. The modifications are inluded to enable a periodic SIB generation which is used to adaptiveley set MBSFN 
 subframe allocation and periodicity values based on multicast traffic load.  
 
 Procedures to test the Adaptive SF allocation solution:
-  * Clone this repository using "git clone [](https://gitlab.ilabt.imec.be/mgirmay/adaptive-mbsfn.git").
+  * Clone this repository using "git clone https://gitlab.ilabt.imec.be/mgirmay/adaptive-mbsfn.git".
   * Install in atleast two host PCs .
   * Run the srsepc, srsmbms, and srsenb (with the enb.conf) in the eNB host PC.  
   * Run srsue (with the configuration file ue.conf) in the UE host PC .
